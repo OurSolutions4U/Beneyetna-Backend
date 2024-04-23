@@ -1,0 +1,223 @@
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.csproj.AssemblyReference.cache
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.AssemblyInfoInputs.cache
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.AssemblyInfo.cs
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.csproj.CoreCompileInputs.cache
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\appsettings.Development.json
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\appsettings.json
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.API.exe
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.API.deps.json
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.API.runtimeconfig.json
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.API.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.API.pdb
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Google.Protobuf.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\MySql.Data.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\ZstdNet.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\comerr64.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\gssapi64.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\k5sprt64.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\krb5_64.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\krbcc64.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.BLL.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.DAL.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.DataContracts.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.BLL.pdb
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.DataContracts.pdb
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.DAL.pdb
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets\msbuild.Beneyetna.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Beneyetna.API.props
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Beneyetna.API.props
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Beneyetna.API.props
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\scopedcss\bundle\Beneyetna.API.styles.css
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetn.3C2BFADC.Up2Date
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\refint\Beneyetna.API.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.pdb
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.genruntimeconfig.cache
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\ref\Beneyetna.API.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\appsettings.json
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.API.exe
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.API.deps.json
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.API.runtimeconfig.json
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.API.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.API.pdb
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\ZstdNet.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\comerr64.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\gssapi64.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\k5sprt64.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\krb5_64.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\krbcc64.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.BLL.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.DAL.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.DataContracts.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.BLL.pdb
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.DataContracts.pdb
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.DAL.pdb
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.csproj.AssemblyReference.cache
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.AssemblyInfoInputs.cache
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.AssemblyInfo.cs
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.csproj.CoreCompileInputs.cache
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets\msbuild.Beneyetna.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Beneyetna.API.props
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Beneyetna.API.props
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Beneyetna.API.props
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\scopedcss\bundle\Beneyetna.API.styles.css
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.csproj.CopyComplete
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\refint\Beneyetna.API.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.pdb
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.genruntimeconfig.cache
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\ref\Beneyetna.API.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Utilities.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Utilities.pdb
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\NotificationTemplates\Email\VerificationCode.html
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\appsettings.Development.json
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\appsettings.json
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.API.exe
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\NotificationTemplates\Email\VerificationCode.html
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.API.deps.json
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.API.runtimeconfig.json
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.API.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.API.pdb
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Google.Protobuf.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\MySql.Data.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\ZstdNet.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\comerr64.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\gssapi64.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\k5sprt64.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\krb5_64.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\krbcc64.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.BLL.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.DAL.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.DataContracts.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Utilities.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.BLL.pdb
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.DataContracts.pdb
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Beneyetna.DAL.pdb
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\bin\Debug\net7.0\Utilities.pdb
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.csproj.AssemblyReference.cache
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.AssemblyInfoInputs.cache
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.AssemblyInfo.cs
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.csproj.CoreCompileInputs.cache
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets\msbuild.Beneyetna.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Beneyetna.API.props
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Beneyetna.API.props
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Beneyetna.API.props
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\scopedcss\bundle\Beneyetna.API.styles.css
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetn.3C2BFADC.Up2Date
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\refint\Beneyetna.API.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.pdb
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\Beneyetna.API.genruntimeconfig.cache
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.API\obj\Debug\net7.0\ref\Beneyetna.API.dll

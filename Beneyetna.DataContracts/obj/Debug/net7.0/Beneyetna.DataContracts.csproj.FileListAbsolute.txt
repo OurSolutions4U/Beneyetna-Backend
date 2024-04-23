@@ -1,0 +1,36 @@
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.csproj.AssemblyReference.cache
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.AssemblyInfoInputs.cache
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.AssemblyInfo.cs
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.csproj.CoreCompileInputs.cache
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.DataContracts\bin\Debug\net7.0\Beneyetna.DataContracts.deps.json
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.DataContracts\bin\Debug\net7.0\Beneyetna.DataContracts.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.DataContracts\bin\Debug\net7.0\Beneyetna.DataContracts.pdb
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\refint\Beneyetna.DataContracts.dll
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.pdb
+D:\Projects\ourSolution4U\Benayate_new\Beneyetna.API\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\ref\Beneyetna.DataContracts.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.DataContracts\bin\Debug\net7.0\Beneyetna.DataContracts.deps.json
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.DataContracts\bin\Debug\net7.0\Beneyetna.DataContracts.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.DataContracts\bin\Debug\net7.0\Beneyetna.DataContracts.pdb
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.csproj.AssemblyReference.cache
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.AssemblyInfoInputs.cache
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.AssemblyInfo.cs
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.csproj.CoreCompileInputs.cache
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\refint\Beneyetna.DataContracts.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.pdb
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\ref\Beneyetna.DataContracts.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.DataContracts\bin\Debug\net7.0\Beneyetna.DataContracts.deps.json
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.DataContracts\bin\Debug\net7.0\Beneyetna.DataContracts.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.DataContracts\bin\Debug\net7.0\Beneyetna.DataContracts.pdb
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.csproj.AssemblyReference.cache
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.AssemblyInfoInputs.cache
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.AssemblyInfo.cs
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.csproj.CoreCompileInputs.cache
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\refint\Beneyetna.DataContracts.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\Beneyetna.DataContracts.pdb
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Beneyetna.DataContracts\obj\Debug\net7.0\ref\Beneyetna.DataContracts.dll

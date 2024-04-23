@@ -1,0 +1,22 @@
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Utilities\bin\Debug\net7.0\Utilities.deps.json
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Utilities\bin\Debug\net7.0\Utilities.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Utilities\bin\Debug\net7.0\Utilities.pdb
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Utilities\obj\Debug\net7.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfo.cs
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Utilities\obj\Debug\net7.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Utilities\obj\Debug\net7.0\Utilities.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Utilities\obj\Debug\net7.0\refint\Utilities.dll
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Utilities\obj\Debug\net7.0\Utilities.pdb
+C:\Users\anajem\Downloads\Beneyetna.API (2)\Beneyetna.API\Utilities\obj\Debug\net7.0\ref\Utilities.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Utilities\bin\Debug\net7.0\Utilities.deps.json
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Utilities\bin\Debug\net7.0\Utilities.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Utilities\bin\Debug\net7.0\Utilities.pdb
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Utilities\obj\Debug\net7.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfoInputs.cache
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfo.cs
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Utilities\obj\Debug\net7.0\Utilities.csproj.CoreCompileInputs.cache
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Utilities\obj\Debug\net7.0\Utilities.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Utilities\obj\Debug\net7.0\refint\Utilities.dll
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Utilities\obj\Debug\net7.0\Utilities.pdb
+D:\Projects\ourSolution4U\Benayate\Beneyetna.API\Utilities\obj\Debug\net7.0\ref\Utilities.dll
